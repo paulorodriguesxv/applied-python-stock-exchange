@@ -15,7 +15,7 @@ www.codekraft.com.br
 
 About the book
 ================
-Python, due to its versatility and its consolidated community, has been used for some years in the field of data science and machine learning. This guide presents some statistics, creation of indicators, such as the crossing of moving averages, HiLo, MACD, Bollinger Bands, On Balance Volume - OBV, Relative Strength index - RSI, Average Directional Index - ADX, EMA 9 Strategy, etc. It is still show how is possible to create an backtesting system from zero to test our indicators and strategies.
+Python, due to its versatility and its consolidated community, has been used for some years in the field of data science and machine learning. This guide presents some statistics, creation of indicators, such as the crossing of moving averages, HiLo, MACD, Bollinger Bands, On Balance Volume - OBV, Relative Strength index - RSI, Average Directional Index - ADX, EMA 9 Strategy, etc. It is still shown how it is possible to create a backtesting system from scratch to test our indicators and strategies.
 
 Author
 =======
