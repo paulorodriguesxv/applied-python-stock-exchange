@@ -1,17 +1,22 @@
+
 English Version
 ================
 Official repository of the examples proposed in the book ["Stock Exchange for python programmers"](https://www.amazon.com/dp/B084YWQLPY)
 
-www.codekraft.co
-
-
 Portuguese Version
 ==================
-
 
 Repositório oficial dos exemplos propostos no livro ["Python Aplicado - Bolsa de Valores"](https://www.amazon.com.br/dp/B07QNDC8CL)
 
 www.codekraft.com.br
+
+Source code
+============
+
+The source code files (jupyter files) have been moved to ["Python Aplicado - Bolsa de Valores"](https://codekraft.com.br/blog/python-aplicado-bolsa-de-valores/).
+
+All futures updates to the source code will be placed there.
+
 
 About the book
 ================
